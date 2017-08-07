@@ -1,0 +1,14 @@
+com\ssurya\boot\AWSManualRequest.class
+com\ssurya\boot\AWSKit.class
+com\ssurya\boot\App.class
+com\ssurya\boot\BasicAuthRestTemplate$BasicAuthorizationInterceptor.class
+com\ssurya\boot\HelloController.class
+com\ssurya\boot\KitRequest.class
+com\ssurya\boot\AppConfig.class
+com\ssurya\boot\HexUtils.class
+com\ssurya\boot\ManualResupplyResponse.class
+com\ssurya\boot\BasicAuthRestTemplate.class
+com\ssurya\boot\RestResponse.class
+com\ssurya\boot\ORSRestClient.class
+com\ssurya\boot\SpringBootWebApplication.class
+com\ssurya\boot\ManualSupplyRequest.class
